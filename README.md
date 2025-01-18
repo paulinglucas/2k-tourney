@@ -1,2 +1,2 @@
 # sports-shares
-Idea created by NellyIs2Cool: Have users invest in shares of sports outcomes that go up or down in price as outcome likliehood is updated
+Sports Shares was an experiment run in Spring 2020 when my friends and I were looking for a way to have fun while dealing with "unprecedented times." The Django-based website worked to allow users visiting the app (hosted on a PythonAnywhere server) to invest in shares of a particular betting futures outcome, and allowed themselves to buy, sell, or trade their shares with one another as the future got closer and closer to payout. This experiment was run with a 64-player NBA 2k tournament managed amongst one another, and was perhaps the best time of our covid-19-riddled lives.
